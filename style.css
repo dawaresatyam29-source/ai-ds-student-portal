@@ -78,6 +78,8 @@ body{
     width:100%;
     max-width:450px;
 
+    text-align:center;
+
     background:rgba(255,255,255,0.05);
     backdrop-filter:blur(15px);
 
@@ -94,14 +96,14 @@ body{
 
 .login-box p{
     color:#cbd5e1;
-    margin-bottom:25px;
+    margin-bottom:18px;
     font-size:20px;
     line-height:1.5;
 }
 
 button{
     width:100%;
-    margin-top:25px;
+    margin-top:18px;
     padding:15px;
 
     border:none;
@@ -122,7 +124,7 @@ button:hover{
 }
 
 .only{
-    margin-top:18px;
+    margin-top:10px;
     color:#4ade80;
     font-size:16px;
 }
